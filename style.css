@@ -1,0 +1,29 @@
+.header-section{
+    background-color: #264653;
+}
+.first-btn{
+    background-color: #E76F51;
+    width: 168px;
+    height: 44px;
+}
+.dif-clr{
+    text-decoration-color: rgb(238, 66, 3);
+}
+.text-clr{
+    color: coral;;
+}
+
+
+.faq-i{
+    width: 431.2px;
+    height: 432px;
+}
+.text-dec{
+    text-decoration-color: coral;
+}
+.grayscale{
+    filter: grayscale(100);
+}
+.fab-icn{
+    color: #E77C40;
+}
